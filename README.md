@@ -9,6 +9,8 @@
 ## Structural Patterns
   - Adapter Pattern
   - Bridge Pattern
+  - Filter Pattern
+  - Composite Pattern
 ## Behavioral Patterns
 
 ## J2EE Patterns
