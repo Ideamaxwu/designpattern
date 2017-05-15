@@ -14,6 +14,8 @@ sourcecode from [tutorialpoint](https://www.tutorialspoint.com/design_pattern).
   - Filter Pattern
   - Composite Pattern
   - Decorator Pattern
+  - Facade Pattern
+  - Flyweight Pattern
 ## Behavioral Patterns
 
 ## J2EE Patterns
