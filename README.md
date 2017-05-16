@@ -16,6 +16,13 @@ sourcecode from [tutorialpoint](https://www.tutorialspoint.com/design_pattern).
   - Decorator Pattern
   - Facade Pattern
   - Flyweight Pattern
+  - Proxy Pattern
 ## Behavioral Patterns
+  - Chain Pattern
+  - Command Pattern
+  - Interpreter Pattern
+  - Iterator Pattern
+  - Memento Pattern
+  - Observer Pattern
 
 ## J2EE Patterns
