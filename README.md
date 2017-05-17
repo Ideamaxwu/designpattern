@@ -24,5 +24,7 @@ sourcecode from [tutorialpoint](https://www.tutorialspoint.com/design_pattern).
   - Iterator Pattern
   - Memento Pattern
   - Observer Pattern
+  - State Pattern
+  - Null Pattern
 
 ## J2EE Patterns
