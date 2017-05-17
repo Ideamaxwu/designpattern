@@ -32,3 +32,8 @@ sourcecode from [tutorialpoint](https://www.tutorialspoint.com/design_pattern).
 
 ## J2EE Patterns
   - MVC Pattern
+  - BusinessDelegate Pattern
+  - CompositeEntity Pattern
+  - DataAccessObject Pattern
+  - FrontController Pattern
+  - InterceptingFilter Pattern
