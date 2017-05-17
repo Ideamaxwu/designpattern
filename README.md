@@ -37,3 +37,5 @@ sourcecode from [tutorialpoint](https://www.tutorialspoint.com/design_pattern).
   - DataAccessObject Pattern
   - FrontController Pattern
   - InterceptingFilter Pattern
+  - ServiceLocator Pattern
+  - TransferObject Pattern
