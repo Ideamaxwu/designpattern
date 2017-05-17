@@ -26,5 +26,9 @@ sourcecode from [tutorialpoint](https://www.tutorialspoint.com/design_pattern).
   - Observer Pattern
   - State Pattern
   - Null Pattern
+  - Strategy Pattern
+  - Template Pattern
+  - Visitor Pattern
 
 ## J2EE Patterns
+  - MVC Pattern
