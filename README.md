@@ -3,19 +3,19 @@
 sourcecode from [tutorialpoint](https://www.tutorialspoint.com/design_pattern).
 
 ## Creational Patterns
-  - Factory Pattern
-  - Abstract Factory Pattern
-  - Singleton Pattern
-  - Builder Pattern
-  - Prototype Pattern
+  - Factory Pattern (e.g., Shape -> Circle, Rectangle, Square)
+  - Abstract Factory Pattern (factory of factories, e.g., Shape, Color -> Circle, Square, Red, Green)
+  - Singleton Pattern (e.g., create object instance)
+  - Builder Pattern (step by step, e.g., MealBuilder -> Burger, Drink)
+  - Prototype Pattern (cache duplicate objects)
 ## Structural Patterns
-  - Adapter Pattern
-  - Bridge Pattern
-  - Filter Pattern
-  - Composite Pattern
-  - Decorator Pattern
+  - Adapter Pattern (a bridge between incompatible interfaces, e.g., MediaPlayer Adapter)
+  - Bridge Pattern (decouple)
+  - Filter Pattern (chain multiple criteria in a decoupled way)
+  - Composite Pattern (group objects, e.g., EmployeesHierarchy)
+  - Decorator Pattern (a wrapper to existing class)
   - Facade Pattern
-  - Flyweight Pattern
+  - Flyweight Pattern (reuse existing objects by storing them)
   - Proxy Pattern
 ## Behavioral Patterns
   - Chain Pattern
