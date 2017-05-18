@@ -18,24 +18,25 @@ sourcecode from [tutorialpoint](https://www.tutorialspoint.com/design_pattern).
   - Flyweight Pattern (reuse existing objects by storing them)
   - Proxy Pattern
 ## Behavioral Patterns
-  - Chain Pattern
+  - Chain Pattern (e.g., Logger)
   - Command Pattern
-  - Interpreter Pattern
+  - Interpreter Pattern (e.g., symble, grammar and expression parsing)
   - Iterator Pattern
-  - Memento Pattern
-  - Observer Pattern
-  - State Pattern
-  - Null Pattern
-  - Strategy Pattern
+  - Madiator Pattern
+  - Memento Pattern (restore states, e.g., GameMemento)
+  - Observer Pattern (objects in one-to-many relationship to be notified)
+  - State Pattern (states in context)
+  - Null Pattern 
+  - Strategy Pattern (e.g., algorithm)
   - Template Pattern
-  - Visitor Pattern
+  - Visitor Pattern (e.g., algorithm execution)
 
 ## J2EE Patterns
   - MVC Pattern
   - BusinessDelegate Pattern
   - CompositeEntity Pattern
-  - DataAccessObject Pattern
-  - FrontController Pattern
-  - InterceptingFilter Pattern
+  - DataAccessObject Pattern (e.g., database manipulation)
+  - FrontController Pattern (a centralized handler, e.g., PageNavigation)
+  - InterceptingFilter Pattern (pre-processing and post-processing)
   - ServiceLocator Pattern
-  - TransferObject Pattern
+  - TransferObject Pattern (POJO)
